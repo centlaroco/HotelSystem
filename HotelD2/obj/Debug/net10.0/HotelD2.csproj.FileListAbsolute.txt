@@ -1,0 +1,14 @@
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\bin\Debug\net10.0\HotelD2.exe
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\bin\Debug\net10.0\HotelD2.deps.json
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\bin\Debug\net10.0\HotelD2.runtimeconfig.json
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\bin\Debug\net10.0\HotelD2.dll
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\bin\Debug\net10.0\HotelD2.pdb
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\HotelD2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\HotelD2.AssemblyInfoInputs.cache
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\HotelD2.AssemblyInfo.cs
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\HotelD2.csproj.CoreCompileInputs.cache
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\HotelD2.dll
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\refint\HotelD2.dll
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\HotelD2.pdb
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\HotelD2.genruntimeconfig.cache
+C:\Users\Kata\Downloads\oop-midterm\HotelD2\obj\Debug\net10.0\ref\HotelD2.dll
